@@ -1,0 +1,61 @@
+/* BoatHouseBookingForm.css */
+body {
+  background: linear-gradient(95.2deg, rgba(173,252,234,1) 26.8%, rgba(192,229,246,1) 64%);
+  margin: 0;
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%; /* Ensure the form is centered vertically */
+}
+
+.booking-form-container {
+  background-color: #fff; /* Add a white background to the form container */
+  padding: 20px;
+  border-radius: 10px;
+  max-width: 400px; /* Limit the width of the form container */
+}
+
+.booking-form-container form {
+  display: flex;
+  flex-direction: column;
+}
+
+.booking-form-container label {
+  margin-bottom: 10px;
+}
+
+.booking-form-container input,
+.booking-form-container select,
+.booking-form-container button {
+  margin-bottom: 15px;
+  margin-left: 10px;
+}
+.Nave {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: #fff; /* Set background color for Nave component */
+  /* Add any additional styling for the Nave component */
+}
+
+
+
+.booking-form-container label {
+  margin-right: 100px;
+  width: 100%; /* Adjust the width as needed */
+}
+
+.booking-form-container label {
+  margin-bottom: 10px;
+}
+
+.booking-form-container-input {
+  margin-bottom: 15px;
+  margin-left: 5px;
+  width: 10px; /* Adjust the width as needed */
+}
+
+
+

@@ -1,0 +1,10 @@
+.input-wrapper input {
+    padding: 10px;
+    margin-bottom: 16px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    width: 100%;
+    box-sizing: border-box;
+    background-color: rgba(16, 16, 16, 0.1); /* Change the background color when focused */
+    color: #000; /* Change the font color when focused */
+  }

@@ -1,0 +1,45 @@
+/* SimplePost.css */
+
+.sign-form {
+    max-width: 400px;
+    margin: 0 auto;
+  }
+  
+  .sign-label {
+    display: block;
+    margin-bottom: 10px;
+    font-weight: bold;
+  }
+  
+  .sign-input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+  }
+  
+  .login-button,
+  .back5 {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-align: center;
+  }
+  
+  .login-button:hover,
+  .back5:hover {
+    background-color: #0056b3;
+  }
+  
+  .back5 {
+    background-color: #6c757d;
+    margin-top: 10px;
+  }
+  
